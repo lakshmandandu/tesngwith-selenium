@@ -30,7 +30,7 @@ public class AllLinks {
 		for(int i=0;i<Alllinks.size();i++)
 		{
 			System.out.println("Link text is "+ Alllinks.get(i).getText());
-			System.out.println("no bugs");
+			
 		}
 	
 	
